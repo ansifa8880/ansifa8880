@@ -1,7 +1,7 @@
 <h1 align="center" style="color: cyan; font-family: Arial, sans-serif;">Hi, I'm <span style="color: cyan;">Ansifa Kouser M</span> 👋</h1>
 
 <p align="center">
-  <a href="https://ansifa8880.github.io.com"><img src="https://img.shields.io/badge/Portfolio-Visit-cyan?style=for-the-badge&logo=web&logoColor=black"></a>
+  <a href="https://ansifa8880.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-cyan?style=for-the-badge&logo=web&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/ansifakouser"><img src="https://img.shields.io/badge/LinkedIn-Connect-cyan?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 </p>
 
@@ -52,6 +52,6 @@
 
 ## 📫 Connect with Me  
 📧 <span style="color: cyan;">Email: ansifakouser4@gmail.com</span>  
-💼 <span style="color: cyan;">LinkedIn: [Your Profile](https://www.linkedin.com/in/ansifa8880)</span>  
+💼 <span style="color: cyan;">LinkedIn: [Your Profile](https://www.linkedin.com/in/ansifakouser)</span>  
 
 ---
