@@ -35,7 +35,7 @@
 
 ## 📂 Featured Projects  
 🔹 <span style="color: cyan;">*[Real-time chat Application with Docker and Kubernetes](https://github.com/ansifa8880/chatbot)*</span>  
-🔹 <span style="color: cyan;">*[Deploying a Scalable App with Kubernetes](your_project_link)*</span>  
+🔹 <span style="color: cyan;">*[Cloud_Cart_Static_Website_Hosting](https://github.com/ansifa8880/Cloud_Cart_Static_Website_Hosting)*</span>  
 🔹 <span style="color: cyan;">*[Automating Infrastructure with Terraform](your_project_link)*</span>  
 
 <span style="color: cyan;">Check out my projects: [GitHub Repositories](https://github.com/ansifa8880)</span>  
